@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! 👋 🌎
 
 <!--
 **Spyder-Tech/Spyder-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💬 I'm an aspiring software developer passionate about building innovative applications and solving real-world problems. While I am new to the professional world, I am dedicated to continuous learning and growth in the tech industry.
+
+🆒 Outside of the tech industry, you'll find me watching sports, gaming or participating in auto-cross.
+
+⚡ Fun Facts:
+- I don't drink coffee.
+- I have a watch collection.
+- I like to travel.
